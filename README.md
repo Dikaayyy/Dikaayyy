@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dikaayyy
 - 👀 I’m interested in Mobile Dev
 - 🌱 I’m currently learning Flutter and Kotlin
-- 📫 How to reach me, u can contact me at adikakurniawan@gmail.com
+- 📫 How to reach me, u can contact me at adikakurniawan4@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
