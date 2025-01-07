@@ -13,7 +13,7 @@
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Dikaayyy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dikaayyy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Dikaayyy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dikaayyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dikaayyy"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dikaayyy&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
