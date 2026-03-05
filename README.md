@@ -1,19 +1,20 @@
-- 👋 Hi, I’m @Dikaayyy
-- 👀 I’m interested in Mobile Dev
-- 🌱 I’m currently learning Flutter and Kotlin
+- 👋 Hi, I'm @Dikaayyy
+- 👀 I'm interested in Mobile Dev
+- 🌱 I'm currently learning Flutter and Kotlin
 - 📫 How to reach me, u can contact me at adikakurniawan4@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/adika-akbar-kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adikakurniawan" height="30" width="40" /></a>
 <a href="https://instagram.com/dkaakbr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adikakurniawan" height="30" width="40" /></a>
 <a href="http://www.youtube.com/@Dikayy4L" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adikakurniawan" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">🎵 Recently Played on Spotify:</h3>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gap26qtle1y7kgtdn69244rb4)
 
-### Github Statistic
+<h3 align="left">📊 Github Statistics:</h3>
 <p align="left">
 <a href="https://github.com/Dikaayyy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dikaayyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Dikaayyy"/>
@@ -21,7 +22,7 @@
 </a>
 </p>
 
-<h3 align="left">Activity Graph:</h3>
+<h3 align="left">📈 Activity Graph:</h3>
 
 [![Dikaayyy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dikaayyy&theme=tokyo-night)](https://github.com/Dikaayyy/github-readme-activity-graph)
 
