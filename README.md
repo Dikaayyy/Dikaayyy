@@ -10,7 +10,7 @@
 <a href="http://www.youtube.com/@Dikayy4L" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adikakurniawan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🎧 Spotify: Recently Played</h3>
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gap26qtle1y7kgtdn69244rb4)
 
 ### Github Statistic
