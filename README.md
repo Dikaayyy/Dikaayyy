@@ -5,10 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/adika-akbar-kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad fauzi" height="30" width="40" /></a>
-<a href="https://instagram.com/dkaakbr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_azizf" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@Dikayy4L" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmadazizfauzi" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/adika-akbar-kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adikakurniawan" height="30" width="40" /></a>
+<a href="https://instagram.com/dkaakbr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adikakurniawan" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@Dikayy4L" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adikakurniawan" height="30" width="40" /></a>
 </p>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gap26qtle1y7kgtdn69244rb4)
 
 ### Github Statistic
 <p align="left">
